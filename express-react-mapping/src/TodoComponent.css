@@ -1,0 +1,11 @@
+table
+{
+    background: lightblue;
+    margin: 3%;
+    border: solid 1px blue;
+    width: 900px;
+}
+th{
+    border: solid 1px blue;
+    display: center;
+}
